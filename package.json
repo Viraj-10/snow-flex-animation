@@ -1,5 +1,5 @@
 {
-  "name": "snow-animation",
+  "name": "new-year-animation",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@shopify/react-native-skia": "0.1.196",
+    "@types/react": "~18.2.14",
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
